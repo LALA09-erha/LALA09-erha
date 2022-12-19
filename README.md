@@ -1,7 +1,7 @@
 ![Image of me](https://github.com/LALA09-erha/LALA09-erha/blob/master/me.gif?raw=true)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/LALA09-erha?tab=repositories">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🥭;My+Name+Is+Fikri_+🍈;Nice+to+meet+you!+🍑;Have+Fun+🍇&center=true&size=30">
   </a>
 </h1>
