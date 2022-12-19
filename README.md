@@ -50,7 +50,7 @@
   <br>
   🍍 I am currently studying various research methods
   <br>
-  🧅 Ask me anything about from <a href="https://github.com/LALA09-erha/LALA09-erha/issues" title="Issues">Here</a>
+  🧅 Ask me anything about from <a href="https://discord.gg/4rcHKVtkHn" title="Discord Server">Here</a>
   <br>
   🥦 How to reach me: <a href="mailto: lalaerha@gmail.com">lalaerha@gmail.com</a>
 </p>
