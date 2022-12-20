@@ -46,8 +46,6 @@
   <br>
   🍋 I'm a student at Trunojoyo Madura University
   <br>
-  🍎 I love writing code and learn anythings about it
-  <br>
   🍍 I am currently studying various research methods
   <br>
   🧅 Ask me anything about from <a href="https://discord.gg/4rcHKVtkHn" title="Discord Server">Here</a>
