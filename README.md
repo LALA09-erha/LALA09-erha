@@ -19,7 +19,6 @@
 <p align="center">
   Hi, I'm Fikri Ainun najib, Research Assistant & Computer Engineer & Software Developer from Indonesia
   <br>
-  
   🍋 I'm a student at Trunojoyo Madura University
   <br>
   🍍 I am currently studying various research methods
@@ -73,6 +72,8 @@
   </div>
   <br></p>
 <br>
+<p align="center">
+
  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -98,3 +99,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
   <br>
+</p>
